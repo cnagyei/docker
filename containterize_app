@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run --name new_webapp -p 8080:4000 caleb-demo
